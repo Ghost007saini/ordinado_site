@@ -1,0 +1,56 @@
+.showoff{
+            background-image:url("macosxsierra.jpg") ;
+            
+            height: 450px;
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+.showoff1{
+            background-image:url("if_new-google-favicon_682665.png") ;
+            
+            height: 450px;
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            
+        }
+body{
+            margin: 0px;
+        }
+.topnav{
+            
+            position:fixed;
+            width: 100%;
+            overflow:hidden;
+            border-radius: 15px
+        }
+.topnav:hover{
+            
+            position:fixed;
+            width: 100%;
+            backface-visibility: hidden;
+            overflow:hidden;
+            border-radius: 15px
+        }
+.topnav a{
+            font-family:cursive;
+            float: left;
+            text-align: center;
+            padding: 25px 16px;
+            color: white;
+            text-decoration: none;
+            font-size: 17px;
+        }
+.topnav a#icon{
+            float: right;
+        }
+.topnav a:hover{
+            background-color:gray;
+            color: black;
+        }
+.topnav a:active{
+            background-color:gray;
+            color: black;
+        }
